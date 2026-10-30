@@ -23,13 +23,13 @@ This file summarizes everything decided so far for the Market Movers futures tra
 
 ## 2. The offer
 
-- **Founding price: $300**, one-time payment, lifetime access, **first 50 members only**. Then the price goes up to **$400**. (Huncho plans to eventually charge about $4,000.)
-- Buyers **pick a main mentor at checkout** (Huncho or Santilopo) but can learn from both. It is a team, not a competition.
+- **Founding price: $300**, one-time payment, lifetime access, **first 50 members only**. Then prices will increase. 
+- Buyers **pick a main mentor at checkout** (Huncho or Santilopo) but will get access to learn from both.
 - **Military / veterans:** 25% off ($225) with proof of service, requested through a Discord ticket. Code: MILITARY25.
 - **Discharged OTH (Other Than Honorable):** tell your story with some proof and get the course for **$150** (single-use code per approved person).
 - **Free:** live sessions in the Market Movers Discord, so people can watch before buying.
 - **All sales are final** (no refunds). Members must agree to an **NDA**.
-- **No guarantees:** the site says clearly that passing evals or getting payouts is not guaranteed.
+- **No guarantees:** the site says clearly that passing evals or getting payouts is not guaranteed. 
 - **Coaching:** "coming soon" (waitlist), not sold yet.
 
 ## 3. The mentors
